@@ -17,3 +17,4 @@ for i in range(8):
             c[i]=c[j]
             c[j]=t
 print("1st set:",l,"\t2nd set",m,"\tMerging:",c)   
+print()
